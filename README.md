@@ -76,6 +76,3 @@ To prevent overfitting:
 - Tree depth was limited using the `max_depth` parameter
 - Training and testing accuracy were compared
 
----
-
-## 📂 Project Structure
